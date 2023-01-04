@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Visualization using 
+## Visualization using Tableau 
 
 ### CS224n: Natural Language Processing with Deep Learning
 
